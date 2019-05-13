@@ -1,4 +1,5 @@
 Open Syobon Action
+[![Build Status](https://travis-ci.org/nnn1590/OpenSyobonAction.svg?branch=master)](https://travis-ci.org/nnn1590/OpenSyobonAction)
 ==================
 ###### Original game developer: Chiku (ちく)
 ###### Open-source port developer: Mathew Velasquez

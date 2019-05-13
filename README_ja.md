@@ -1,4 +1,5 @@
 オープンしょぼんのアクション
+[![ビルドステータス](https://travis-ci.org/nnn1590/OpenSyobonAction.svg?branch=master)](https://travis-ci.org/nnn1590/OpenSyobonAction)
 ==============
 ###### オリジナルゲームの開発者：ちく
 ###### オープンソースポートの開発者：Mathew Velasquez
